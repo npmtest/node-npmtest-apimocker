@@ -1,0 +1,65 @@
+<svg height="990" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="990" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">9 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ apimocker@0.5.0 </tspan>
+<tspan x="10" y="90">  ├─┬ body-parser@1.4.3 </tspan>
+<tspan x="10" y="106">  │ ├── bytes@1.0.0 </tspan>
+<tspan x="10" y="122">  │ ├── depd@0.3.0 </tspan>
+<tspan x="10" y="138">  │ ├── iconv-lite@0.4.3 </tspan>
+<tspan x="10" y="154">  │ ├── media-typer@0.2.0 </tspan>
+<tspan x="10" y="170">  │ ├── qs@0.6.6 </tspan>
+<tspan x="10" y="186">  │ ├── raw-body@1.2.2 </tspan>
+<tspan x="10" y="202">  │ └─┬ type-is@1.3.1 </tspan>
+<tspan x="10" y="218">  │   └── mime-types@1.0.0 </tspan>
+<tspan x="10" y="234">  ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="250">  │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="266">  ├─┬ express@4.5.1 </tspan>
+<tspan x="10" y="282">  │ ├─┬ accepts@1.0.7 </tspan>
+<tspan x="10" y="298">  │ │ └── negotiator@0.4.7 </tspan>
+<tspan x="10" y="314">  │ ├── buffer-crc32@0.2.3 </tspan>
+<tspan x="10" y="330">  │ ├── cookie@0.1.2 </tspan>
+<tspan x="10" y="346">  │ ├── cookie-signature@1.0.4 </tspan>
+<tspan x="10" y="362">  │ ├─┬ debug@1.0.2 </tspan>
+<tspan x="10" y="378">  │ │ └── ms@0.6.2 </tspan>
+<tspan x="10" y="394">  │ ├── escape-html@1.0.1 </tspan>
+<tspan x="10" y="410">  │ ├── finalhandler@0.0.2 </tspan>
+<tspan x="10" y="426">  │ ├── fresh@0.2.2 </tspan>
+<tspan x="10" y="442">  │ ├── merge-descriptors@0.0.2 </tspan>
+<tspan x="10" y="458">  │ ├── methods@1.0.1 </tspan>
+<tspan x="10" y="474">  │ ├── parseurl@1.0.1 </tspan>
+<tspan x="10" y="490">  │ ├── path-to-regexp@0.1.2 </tspan>
+<tspan x="10" y="506">  │ ├─┬ proxy-addr@1.0.1 </tspan>
+<tspan x="10" y="522">  │ │ └── ipaddr.js@0.1.2 </tspan>
+<tspan x="10" y="538">  │ ├── range-parser@1.0.0 </tspan>
+<tspan x="10" y="554">  │ ├─┬ send@0.5.0 </tspan>
+<tspan x="10" y="570">  │ │ ├─┬ finished@1.2.2 </tspan>
+<tspan x="10" y="586">  │ │ │ └── ee-first@1.0.3 </tspan>
+<tspan x="10" y="602">  │ │ └── mime@1.2.11 </tspan>
+<tspan x="10" y="618">  │ ├─┬ serve-static@1.3.2 </tspan>
+<tspan x="10" y="634">  │ │ ├── parseurl@1.1.3 </tspan>
+<tspan x="10" y="650">  │ │ └─┬ send@0.6.0 </tspan>
+<tspan x="10" y="666">  │ │   └── debug@1.0.3 </tspan>
+<tspan x="10" y="682">  │ ├─┬ type-is@1.3.2 </tspan>
+<tspan x="10" y="698">  │ │ └── mime-types@1.0.2 </tspan>
+<tspan x="10" y="714">  │ ├── utils-merge@1.0.0 </tspan>
+<tspan x="10" y="730">  │ └── vary@0.1.0 </tspan>
+<tspan x="10" y="746">  ├─┬ express-http-proxy@0.11.0 </tspan>
+<tspan x="10" y="762">  │ ├── es6-promise@3.3.1 </tspan>
+<tspan x="10" y="778">  │ └─┬ raw-body@2.2.0 </tspan>
+<tspan x="10" y="794">  │   ├── bytes@2.4.0 </tspan>
+<tspan x="10" y="810">  │   ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="826">  │   └── unpipe@1.0.0 </tspan>
+<tspan x="10" y="842">  ├─┬ express-xml-bodyparser@0.2.2 </tspan>
+<tspan x="10" y="858">  │ └─┬ xml2js@0.4.17 </tspan>
+<tspan x="10" y="874">  │   ├── sax@1.2.2 </tspan>
+<tspan x="10" y="890">  │   └─┬ xmlbuilder@4.2.1 </tspan>
+<tspan x="10" y="906">  │     └── lodash@4.17.4 </tspan>
+<tspan x="10" y="922">  ├── JSONPath@0.11.2 </tspan>
+<tspan x="10" y="938">  ├── underscore@1.8.3 </tspan>
+<tspan x="10" y="954">  └─┬ untildify@2.1.0 </tspan>
+<tspan x="10" y="970">    └── os-homedir@1.0.2</tspan>
+</text>
+</svg>
