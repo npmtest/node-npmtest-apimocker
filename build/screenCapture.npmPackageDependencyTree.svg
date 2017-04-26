@@ -1,7 +1,7 @@
-<svg height="990" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="990" fill="#555" width="720"></rect>
+<svg height="1102" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1102" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">9 megabytes installed</tspan>
+<tspan x="10" y="26">33 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ apimocker@0.5.0 </tspan>
@@ -46,20 +46,27 @@
 <tspan x="10" y="698">  │ │ └── mime-types@1.0.2 </tspan>
 <tspan x="10" y="714">  │ ├── utils-merge@1.0.0 </tspan>
 <tspan x="10" y="730">  │ └── vary@0.1.0 </tspan>
-<tspan x="10" y="746">  ├─┬ express-http-proxy@0.11.0 </tspan>
+<tspan x="10" y="746">  ├─┬ express-http-proxy@1.0.1 </tspan>
 <tspan x="10" y="762">  │ ├── es6-promise@3.3.1 </tspan>
-<tspan x="10" y="778">  │ └─┬ raw-body@2.2.0 </tspan>
-<tspan x="10" y="794">  │   ├── bytes@2.4.0 </tspan>
-<tspan x="10" y="810">  │   ├── iconv-lite@0.4.15 </tspan>
-<tspan x="10" y="826">  │   └── unpipe@1.0.0 </tspan>
-<tspan x="10" y="842">  ├─┬ express-xml-bodyparser@0.2.2 </tspan>
-<tspan x="10" y="858">  │ └─┬ xml2js@0.4.17 </tspan>
-<tspan x="10" y="874">  │   ├── sax@1.2.2 </tspan>
-<tspan x="10" y="890">  │   └─┬ xmlbuilder@4.2.1 </tspan>
-<tspan x="10" y="906">  │     └── lodash@4.17.4 </tspan>
-<tspan x="10" y="922">  ├── JSONPath@0.11.2 </tspan>
-<tspan x="10" y="938">  ├── underscore@1.8.3 </tspan>
-<tspan x="10" y="954">  └─┬ untildify@2.1.0 </tspan>
-<tspan x="10" y="970">    └── os-homedir@1.0.2</tspan>
+<tspan x="10" y="778">  │ ├─┬ raw-body@2.2.0 </tspan>
+<tspan x="10" y="794">  │ │ ├── bytes@2.4.0 </tspan>
+<tspan x="10" y="810">  │ │ ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="826">  │ │ └── unpipe@1.0.0 </tspan>
+<tspan x="10" y="842">  │ └─┬ winston@2.3.1 </tspan>
+<tspan x="10" y="858">  │   ├── async@1.0.0 </tspan>
+<tspan x="10" y="874">  │   ├── colors@1.0.3 </tspan>
+<tspan x="10" y="890">  │   ├── cycle@1.0.3 </tspan>
+<tspan x="10" y="906">  │   ├── eyes@0.1.8 </tspan>
+<tspan x="10" y="922">  │   ├── isstream@0.1.2 </tspan>
+<tspan x="10" y="938">  │   └── stack-trace@0.0.9 </tspan>
+<tspan x="10" y="954">  ├─┬ express-xml-bodyparser@0.2.2 </tspan>
+<tspan x="10" y="970">  │ └─┬ xml2js@0.4.17 </tspan>
+<tspan x="10" y="986">  │   ├── sax@1.2.2 </tspan>
+<tspan x="10" y="1002">  │   └─┬ xmlbuilder@4.2.1 </tspan>
+<tspan x="10" y="1018">  │     └── lodash@4.17.4 </tspan>
+<tspan x="10" y="1034">  ├── JSONPath@0.11.2 </tspan>
+<tspan x="10" y="1050">  ├── underscore@1.8.3 </tspan>
+<tspan x="10" y="1066">  └─┬ untildify@2.1.0 </tspan>
+<tspan x="10" y="1082">    └── os-homedir@1.0.2</tspan>
 </text>
 </svg>
