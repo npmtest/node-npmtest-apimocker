@@ -1,6 +1,6 @@
 # npmtest-apimocker
 
-#### test coverage for  [apimocker (v0.5.0)](https://github.com/gstroup/apimocker#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-apimocker.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-apimocker) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-apimocker.svg)](https://travis-ci.org/npmtest/node-npmtest-apimocker)
+#### basic test coverage for  [apimocker (v0.5.0)](https://github.com/gstroup/apimocker#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-apimocker.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-apimocker) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-apimocker.svg)](https://travis-ci.org/npmtest/node-npmtest-apimocker)
 
 #### Simple HTTP server that returns mock service API responses to your front end.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-apimocker/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-apimocker/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-apimocker/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-apimocker/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-apimocker/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-apimocker/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-apimocker/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-apimocker/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-apimocker/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-apimocker/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-apimocker/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-apimocker/build/coverage.html/index.html)
 
